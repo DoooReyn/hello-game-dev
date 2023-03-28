@@ -83,3 +83,9 @@
 ## 书籍
 
 - TODO
+
+
+## 平台/渠道
+
+- [itch.io](https://itch.io/)
+- [facebook](https://www.facebook.com/gaming/play)
