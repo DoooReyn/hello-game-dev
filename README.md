@@ -87,6 +87,9 @@
     - [Phaser Editor 2D](https://phasereditor2d.com/)
 - 粒子编辑器
     - [Particle Designer · 付费](https://www.71squared.com/particledesigner)
+- 骨骼动画
+    - [DragonBone](https://dragonbones.github.io/cn/index.html)
+    - [Spine · 付费](http://zh.esotericsoftware.com/)
 
 ## 资源（免费）
 
