@@ -44,7 +44,6 @@
     - [C++ Language](https://cplusplus.com/doc/tutorial/)
     - [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/)
     - [C++ Tutorial](https://www.javatpoint.com/cpp-tutorial)
-    -
 - JavaScript
     - [MDN-JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - [Learn JavaScript Tutorial](https://www.javatpoint.com/javascript-tutorial)
@@ -73,13 +72,21 @@
 
 ## 工具（辅助）
 
-### 免费
-
-- [aseprite](https://www.aseprite.org/docs/sprite-sheet/)
-- [BMFont](https://www.angelcode.com/products/bmfont/)
-- [Tiled](https://www.mapeditor.org/)
-- [Phaser Editor 2D](https://phasereditor2d.com/)
-- TODO
+- 图集打包
+    - [aseprite](https://www.aseprite.org/docs/sprite-sheet/)
+    - [TexturePacker · 付费](https://www.codeandweb.com/texturepacker)
+- 位图字体
+    - [BMFont](https://www.angelcode.com/products/bmfont/)
+    - [Graphic Designer · 付费](https://www.71squared.com/en/glyphdesigner)
+- 瓦片地图
+    - [Tiled](https://www.mapeditor.org/)
+- 物理编辑器
+    - [PhysicsEditor · 付费](https://www.codeandweb.com/physicseditor)
+- UI 编辑器
+    - [FairyGUI](https://www.fairygui.com/)
+    - [Phaser Editor 2D](https://phasereditor2d.com/)
+- 粒子编辑器
+    - TODO
 
 ### 付费
 
