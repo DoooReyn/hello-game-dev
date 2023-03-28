@@ -89,3 +89,4 @@
 
 - [itch.io](https://itch.io/)
 - [facebook](https://www.facebook.com/gaming/play)
+- [crazy games](https://www.crazygames.com/)
