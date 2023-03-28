@@ -14,16 +14,17 @@
 - [Egret](https://www.egret.com/)
 - [Unity](https://unity.com/cn)
 - [Oasis Engine](https://oasisengine.cn/)
+- [PyGame](https://www.pygame.org/)
 
 
 ## 语言
 
+- C/C++
 - JavaScript
 - TypeScript
-- C/C++
 - Java
 - Lua
-- TODO
+- Python
 
 ## 编辑器/IDE
 
@@ -65,6 +66,16 @@
 
 
 ## 博客/大牛
+
+- TODO
+
+
+## 论坛
+
+- TODO
+
+
+## 邮件订阅
 
 - TODO
 
