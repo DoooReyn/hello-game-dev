@@ -86,13 +86,7 @@
     - [FairyGUI](https://www.fairygui.com/)
     - [Phaser Editor 2D](https://phasereditor2d.com/)
 - 粒子编辑器
-    - TODO
-
-### 付费
-
-- [TexturePacker](https://www.codeandweb.com/texturepacker)
-- [PhysicsEditor](https://www.codeandweb.com/physicseditor)
-- TODO
+    - [Particle Designer · 付费](https://www.71squared.com/particledesigner)
 
 ## 资源（免费）
 
