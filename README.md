@@ -35,14 +35,16 @@
 
 ### 免费
 
-- [aesprite](https://www.aseprite.org/docs/sprite-sheet/)
+- [aseprite](https://www.aseprite.org/docs/sprite-sheet/)
 - [BMFont](https://www.angelcode.com/products/bmfont/)
 - [Tiled](https://www.mapeditor.org/)
+- [Phaser Editor 2D](https://phasereditor2d.com/)
 - TODO
 
 ### 付费
 
-- TexturePacker
+- [TexturePacker](https://www.codeandweb.com/texturepacker)
+- [PhysicsEditor](https://www.codeandweb.com/physicseditor)
 - TODO
 
 
