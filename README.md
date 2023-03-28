@@ -2,8 +2,6 @@
 
 你好，游戏开发新手入门。
 
----
-
 ## 引擎 (2D)
 
 - Cocos
@@ -17,8 +15,6 @@
 - Unity
 - TODO
 
----
-
 ## 语言
 
 - JavaScript
@@ -28,16 +24,12 @@
 - Lua
 - TODO
 
----
-
 ## 编辑器/IDE
 
 - JetBrains WebStorm
 - Sublime Text
 - Visual Studio Code
 - TODO
-
----
 
 ## 工具
 
@@ -53,7 +45,6 @@
 - TexturePacker
 - TODO
 
----
 
 ## 资源
 
@@ -69,7 +60,6 @@
 
 - TODO
 
----
 
 ## 书籍推荐
 
