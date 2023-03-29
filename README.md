@@ -95,7 +95,11 @@
 
 ### 图集
 
-- TODO
+- [Kenney](https://kenney.nl/)
+- [Open Game Art](https://opengameart.org/)
+- [Game Art Guppy](https://www.gameartguppy.com/)
+- [itch.io](https://itch.io/game-assets)
+- [Glitch - Public Domain Game Art](https://www.glitchthegame.com/public-domain-game-art/)
 
 ### 音频
 
