@@ -103,7 +103,10 @@
 
 ### 音频
 
-- TODO
+- [playonloop](https://www.playonloop.com/)
+- [Octave: A free library of UI Sounds](http://raisedbeaches.com/octave/)
+- [MUSOPEN](https://musopen.org/)
+- [FREE BGM DOVA-SYNDROME](https://dova-s.jp)
 
 ### 字体
 
